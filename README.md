@@ -211,6 +211,7 @@ Add the following to your Claude Desktop MCP config file:
 ```
 
 Restart Claude Desktop. The server will appear as an available tool.
+Demo video on integrating Claude Desktop with the MCP: https://www.loom.com/share/b60d801dbadd4c41a3e4e9e6f71c3eb2
 
 ---
 
